@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "connect-timeout": "^1.9.0",
+    "date-format": "^4.0.14",
+    "date-utils": "^1.2.21",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "firebase-admin": "^11.6.0",
+    "js-sha256": "^0.9.0",
+    "json-fixer": "^1.6.15",
+    "path": "^0.12.7",
+    "pm2": "^5.3.0",
+    "promise-mysql": "^5.2.0",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2",
+    "sync-mysql": "^3.0.1",
+    "sync-request": "^6.1.0",
+    "zip-lib": "^0.7.3"
+  }
+}
